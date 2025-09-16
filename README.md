@@ -1,5 +1,5 @@
 # FUTURE_DS_02
-Social Media Campaign Performance Tracker Dashboard
+## Social Media Campaign Performance Tracker Dashboard
 
 ## 🎯 Project Objective
 The objective of this project is to design an interactive Power BI dashboard that tracks and analyzes social media campaign performance.
@@ -7,7 +7,7 @@ The dashboard provides insights into spending, impressions, CTR, CPC, clicks, an
 It helps in monitoring ad effectiveness, optimizing targeting strategies, and improving ROI through data-driven decision-making.
 
 ## 🗂️ Datasrt Used
-- <a href="https://github.com/Pritamkr-22/FUTURE_DS_2/blob/main/data.csv"> Super Store Data</a>">
+- <a href="https://github.com/Pritamkr-22/FUTURE_DS_2/blob/main/data.csv"> Campaign Dataset</a>">
 
 ## 🛠️ Tools & Technologies Used
 
